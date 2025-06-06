@@ -1,0 +1,7 @@
+/build
+/.settings
+/Listings
+/Objects
+/*.uvoptx
+/*.uvguix.*
+/EventRecorderStub.scvd
